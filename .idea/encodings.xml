@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Binary_Search.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/ShotDown.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Sum.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Work/str_reverse.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Work/three.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Work/triangle_determine.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/birthday.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/const.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/if.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/leap_year.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/login.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/prime_numbers.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/printf.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/switch.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/while.c" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
